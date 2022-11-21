@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Arial;
+  background-color: #f2f2f2;
+}
+
+#corners {
+  border-radius: 5px;
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+}
+.promo1 {
+  width: 100%;
+}
+.marginTop {
+  margin-top: 20px;
+}
+.marginBot {
+  margin-bottom: 80px;
+}
+.nav {
+  background-color: #f2f2f2;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+.carousel-img {
+  border-radius: 10px;
+}
